@@ -1,13 +1,13 @@
-package com.Ecommerce.Ecommerce;
+package com.collegemanagement.collegemanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EcommerceApplication {
+public class CollegeManagement {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EcommerceApplication.class, args);
+		SpringApplication.run(CollegeManagement.class, args);
 	}
 
 }

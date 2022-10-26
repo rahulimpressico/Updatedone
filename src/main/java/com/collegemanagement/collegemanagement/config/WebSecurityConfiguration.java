@@ -1,4 +1,4 @@
-package com.Ecommerce.Ecommerce;
+package com.collegemanagement.collegemanagement.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
