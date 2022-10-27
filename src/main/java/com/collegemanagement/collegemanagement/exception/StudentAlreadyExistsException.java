@@ -1,4 +1,4 @@
-package com.Ecommerce.Ecommerce;
+package com.collegemanagement.collegemanagement.exception;
 
 
 public class StudentAlreadyExistsException extends RuntimeException{
